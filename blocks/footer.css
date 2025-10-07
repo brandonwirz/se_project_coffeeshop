@@ -36,7 +36,7 @@
   color: white;
   text-decoration: none;
   display: flex;
-  transition: opacity 0.3s wase-in-out;
+  transition: opacity 0.3s ease-in-out;
   align-items: center;
 }
 
