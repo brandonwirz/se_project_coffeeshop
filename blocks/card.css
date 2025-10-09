@@ -14,9 +14,9 @@
 .card__title {
   margin: 0 0 32px;
   padding: 0;
-  font-weight: bold;
   font-size: 20px;
   line-height: 30px;
+  font-weight: bold;
 }
 
 .card__list-item {
