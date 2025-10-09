@@ -5,6 +5,7 @@
   display: flex;
   flex-direction: column;
   background: center / cover no-repeat #fff url(../images/background_header.svg);
+  z-index: 1;
 }
 
 .header__title {
@@ -18,6 +19,7 @@
 
 .header__span-accent {
   font-family: "Noto Serif", "Times New Roman", serif;
+  font-weight: normal;
   font-style: italic;
   color: #3f96f3;
   display: block;
@@ -37,6 +39,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__footer {
